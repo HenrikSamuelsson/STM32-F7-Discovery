@@ -1,1 +1,1 @@
-# ST graphics workshop fall 206
+# ST graphics workshop fall 2016
