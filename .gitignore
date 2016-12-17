@@ -1,0 +1,7 @@
+*.bin
+*.elf
+references/slides/
+references/STemWin_v.5.36_Lab/EmWin_docs/
+workspace/.metadata/
+references/STemWin_v.5.36_Lab/EmWin_Base/Middlewares/ST/STemWin/Documentation/
+references/STemWin_v.5.36_Lab/EmWin_Base/Middlewares/ST/STemWin/Lib/STemWin528_CM7_GCC.a
