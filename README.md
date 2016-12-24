@@ -8,4 +8,7 @@ The System Workbench toolchain, is a free software development environment based
 STM32CubeMX which is a graphical software configuration tool that can generate initialization code. The base for new projects will be done by aid of this tool.  
 
 ## Motor Shield Control
-The Discovery kit is equipped with Arduino compatible connectors. The plan is the connect a [Motor Shield](https://www.arduino.cc/en/Main/ArduinoMotorShieldR3 "Motor Shield") to be able to run a pair of motors.   
+The Discovery kit is equipped with Arduino compatible connectors. The plan is the connect a [Motor Shield](https://www.arduino.cc/en/Main/ArduinoMotorShieldR3 "Motor Shield") to be able to run a pair of motors.  
+
+## Notes  
+Had to change to Internal builder as Builder type to get a Nucleo based test project from STM32 Mx cube to compile.   
